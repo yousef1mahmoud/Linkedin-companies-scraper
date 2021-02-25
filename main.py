@@ -6,8 +6,8 @@ from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 
 user = {
-        "email": "yousef.dev9@gmail.com",
-        "password": "You!@#sef123"
+        "email": "email",
+        "password": "password"
     }
 data = []
 
